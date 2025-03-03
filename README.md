@@ -31,6 +31,10 @@ RUNNING IN LOCAL HOST
 ![Screenshot 2025-03-03 190614](https://github.com/user-attachments/assets/a86c2e4f-0de8-4410-bd32-cc4799ad45cb)
 
 ## 4 Write Dockerfile for the python file `ml-model.py`. Create image and push to DockerHub `Reg-Number-ml-model(Example: 1214214-ml-model)`
+OUTPUT FOR ML-MODEL
+
+![Screenshot 2025-03-03 223736](https://github.com/user-attachments/assets/ed42e2a6-36e2-49cc-8761-25f799103e1d)
+
 WRITING DOCKER FILE
 
 ![Screenshot 2025-03-03 213021](https://github.com/user-attachments/assets/bf821e99-b3b7-4ba6-b763-3d8dc566ceb3)
